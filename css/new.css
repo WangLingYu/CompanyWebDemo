@@ -1,0 +1,20 @@
+
+.list_box h1 {
+    font-size: 20px;
+    text-align: center;
+    margin: 10px 0;
+}
+
+/*line-height设置在父元素还是本身元素*/
+.newsContent {
+    font-size: 14px;
+    padding: 20px;
+    line-height: 30px;
+    text-indent: 2em;
+}
+
+.list_box_new_info {
+    color: #666;
+    text-align: center; /*区别text-align和margin:0 auto;区别*/
+    border-bottom: 1px dotted #666;
+}
